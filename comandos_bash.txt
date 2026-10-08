@@ -1,0 +1,8 @@
+LS lista todos os arquivos e pastas de onde voce esta (LISTA)
+CD muda voce de diretorio (CHANGE DIRECTORY)
+PWD mostra o caminho absolute de onde eu estou (print working directory)
+
+Toda pasta tem 2 arquivos dentro (. e ..)
+Arquivos ocultos comecam com .
+
+MKDIR cria uma pasta (MAKE DIRECTORY)
