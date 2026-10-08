@@ -12,4 +12,4 @@ RM -RF .GIT EXCLUI A PASTA GIT CASO ERRO (cuidado com -rf)
 GIT STATUS
 GIT ADD ADICIONAR NO COMMIT
 git commit -m " "
-
+rm -rf remove de forma recursive e forcada todos os diretorios
